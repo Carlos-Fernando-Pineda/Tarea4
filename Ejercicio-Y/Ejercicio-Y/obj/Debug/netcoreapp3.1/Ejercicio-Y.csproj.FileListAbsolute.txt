@@ -1,0 +1,13 @@
+C:\Users\carlo\source\repos\Ejercicio-Y\Ejercicio-Y\bin\Debug\netcoreapp3.1\Ejercicio-Y.exe
+C:\Users\carlo\source\repos\Ejercicio-Y\Ejercicio-Y\bin\Debug\netcoreapp3.1\Ejercicio-Y.deps.json
+C:\Users\carlo\source\repos\Ejercicio-Y\Ejercicio-Y\bin\Debug\netcoreapp3.1\Ejercicio-Y.runtimeconfig.json
+C:\Users\carlo\source\repos\Ejercicio-Y\Ejercicio-Y\bin\Debug\netcoreapp3.1\Ejercicio-Y.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\Ejercicio-Y\Ejercicio-Y\bin\Debug\netcoreapp3.1\Ejercicio-Y.dll
+C:\Users\carlo\source\repos\Ejercicio-Y\Ejercicio-Y\bin\Debug\netcoreapp3.1\Ejercicio-Y.pdb
+C:\Users\carlo\source\repos\Ejercicio-Y\Ejercicio-Y\obj\Debug\netcoreapp3.1\Ejercicio-Y.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\Ejercicio-Y\Ejercicio-Y\obj\Debug\netcoreapp3.1\Ejercicio-Y.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\Ejercicio-Y\Ejercicio-Y\obj\Debug\netcoreapp3.1\Ejercicio-Y.AssemblyInfo.cs
+C:\Users\carlo\source\repos\Ejercicio-Y\Ejercicio-Y\obj\Debug\netcoreapp3.1\Ejercicio-Y.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Ejercicio-Y\Ejercicio-Y\obj\Debug\netcoreapp3.1\Ejercicio-Y.dll
+C:\Users\carlo\source\repos\Ejercicio-Y\Ejercicio-Y\obj\Debug\netcoreapp3.1\Ejercicio-Y.pdb
+C:\Users\carlo\source\repos\Ejercicio-Y\Ejercicio-Y\obj\Debug\netcoreapp3.1\Ejercicio-Y.genruntimeconfig.cache
